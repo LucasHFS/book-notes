@@ -6,7 +6,7 @@ Notes from books and other interesting things that I've read. Enjoy!
 
 Completed notes from books that I've finished reading. In rare cases, notes for chapters are missing if I didn't find the material relevant.
 
-* [The Pragmatic Programmer](the-senior-software-engineer-summary.md) by Andrew Hunt and David Thomas
+* [The Pragmatic Programmer](the-pragmatic-programmer-summary.md) by Andrew Hunt and David Thomas
 
 ### Incomplete Notes
 
